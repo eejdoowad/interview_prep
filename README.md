@@ -378,10 +378,10 @@ The certificate is the vector x. We check if A x ≥ b and that x is all integer
   * Delete: O(log n)
   * Search: O(log n)
 * ROTATIONS:
-  * Type 1
+  * Type 1 (BUG IN BOTH DIAGRAMS: n and m should be swapped on right)
 ![Rotation type 1](avl1.png)
   * Type 2
-![Rotation type 2](avl1.png)
+![Rotation type 2](avl2.png)
 
 #### Splay Tree 
 
